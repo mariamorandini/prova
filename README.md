@@ -2,7 +2,7 @@
 
 
 The reference dataset is [World Energy Dataset](https://github.com/owid/energy-data)
-In these directories is organized the submission of the work wich involves some analysis and the aggregation of them in an interactive .HTML dashboard. 
+In these directories is organized the submission of the work wich involves some analysis and the aggregation of them in an interactive [website](https://mariamorandini.github.io/world-energy-consumption-/). 
 
 Specifically:
 - [**data**](./data): contains all the data coming from the resource above, and the processed files aggregated over nations. In [map files](.data/ne_10m_admin_0_countries) are stored .shp files needed for the plots of the world maps. Lastly in [backround map](./data/MAP.png) is available the .png file containing the background wallpaper used for the final [website](https://mariamorandini.github.io/world-energy-consumption-/). 
