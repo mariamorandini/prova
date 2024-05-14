@@ -1,0 +1,3 @@
+[submodule "__src__"]
+	path = __src__
+	url = https://github.com/mariamorandini/world-energy-consumption.git
