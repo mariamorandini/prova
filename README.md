@@ -5,7 +5,7 @@ The reference dataset is [World Energy Dataset](https://github.com/owid/energy-d
 In these directories is organized the submission of the work wich involves some analysis and the aggregation of them in an interactive .HTML dashboard. 
 
 Specifically:
-- [**data**](./data): contains all the data coming from the resource above, and the processed files aggregated over nations. In [map files](.data/ne_10m_admin_0_countries) are stored .shp files needed for the plots of the world maps. Lastly in [backround map](./data/MAP.png) is available the .png file containing the background wallpaper used for the final .HMTL dahsboard.
+- [**data**](./data): contains all the data coming from the resource above, and the processed files aggregated over nations. In [map files](.data/ne_10m_admin_0_countries) are stored .shp files needed for the plots of the world maps. Lastly in [backround map](./data/MAP.png) is available the .png file containing the background wallpaper used for the final [website](https://mariamorandini.github.io/world-energy-consumption-/). 
 
 - [**src_**](./src_): contains different .py files used in the cleaning steps of the dataset. They have all indicated their functions within, but we give here a brief outline: 
     - [*insert iso code*](./src_/consumptions_dataset.py): inserts ISO codes corresponding to each country, to ease the plots on the world map;
