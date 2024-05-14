@@ -14,7 +14,7 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('MAP.png'); /* Update this URL with the correct path to your new image */
+    background-image: url('data/MAP.png'); /* Update this URL with the correct path to your new image */
     background-size: cover;
     background-position: center;
 }
